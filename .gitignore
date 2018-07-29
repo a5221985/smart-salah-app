@@ -10,3 +10,5 @@ ios/calabash.framework/
 # Calabash Android
 #
 android/calabash.framework/
+
+Gemfile.lock
