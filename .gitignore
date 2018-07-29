@@ -2,3 +2,11 @@ node_modules/**/*
 .expo/*
 npm-debug.*
 package-lock.json
+
+# Calabash iOS
+#
+ios/calabash.framework/
+
+# Calabash Android
+#
+android/calabash.framework/
