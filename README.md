@@ -6,7 +6,7 @@ Smart Salah App that can potentially have very smart and innovative features
 2. Clone the repository
 3. Change directory to the app root folder
 
-        cd smart-slah-app
+        cd smart-salah-app
     
 4. Run the app
 
