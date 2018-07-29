@@ -5,12 +5,12 @@ Smart Salah App that can potentially have very smart and innovative features
 1. Install *expo* app in iOS device or Android device
 2. Clone the repository
 3. Change directory to the app root folder
-    
-    cd smart-slah-app
+
+        cd smart-slah-app
     
 4. Run the app
 
-    expo start
+        expo start
     
 5. Open *expo* in the device
 6. Open *smat-salah-app* in the device
