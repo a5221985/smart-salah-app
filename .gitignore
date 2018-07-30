@@ -12,3 +12,4 @@ ios/calabash.framework/
 android/calabash.framework/
 
 Gemfile.lock
+yarn.lock
